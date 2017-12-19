@@ -193,6 +193,8 @@ public class MainActivity extends AppCompatActivity {
                 getCameraCharacteristics();
             }
         });
+
+        // this is my Github test code
     }
 
     @Override
